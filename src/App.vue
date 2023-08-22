@@ -23,7 +23,6 @@ export default {
     axios.get('./questions.json')
         .then(response => {
           this.quizData = _.shuffle(response.data);
-          console.log(this.quizData)
         })
         .catch(function (error) {
           console.log(error);
