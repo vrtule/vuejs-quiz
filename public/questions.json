@@ -1,0 +1,43 @@
+[
+  {
+    "question": "Která řeka je nejdelší na světě?",
+    "correct_answer": "Amazonka",
+    "options": ["Nil", "Mississippi", "Jang-c’-ťiang", "Amazonka"]
+  },
+  {
+    "question": "Kolik kontinentů má Země?",
+    "correct_answer": "7",
+    "options": ["6", "5", "8", "7"]
+  },
+  {
+    "question": "Která hora je nejvyšší na světě?",
+    "correct_answer": "Mount Everest",
+    "options": ["K2", "Kilimandžáro", "Aconcagua", "Mount Everest"]
+  },
+  {
+    "question": "Která horská řada odděluje Evropu od Asie?",
+    "correct_answer": "Ural",
+    "options": ["Andské hory", "Alpy", "Ural", "Himaláje"]
+  },
+  {
+    "question": "Který stát je známý jako 'Země vycházejícího slunce'?",
+    "correct_answer": "Japonsko",
+    "options": ["Čína", "Thajsko", "Vietnam", "Japonsko"]
+  },
+  {
+    "question": "Která země je největší na světě (rozlohou)?",
+    "correct_answer": "Rusko",
+    "options": ["Kanada", "USA", "Brazílie", "Rusko"]
+  },
+  {
+    "question": "Který známý průliv odděluje Evropu od Afriky?",
+    "correct_answer": "Gibraltarský průliv",
+    "options": ["La Manche", "Gibraltarský průliv", "Dardanely", "Messinský průliv"]
+  },
+  {
+    "question": "Která poušť se nachází v Jižní Americe?",
+    "correct_answer": "Atacama",
+    "options": ["Sahara", "Arabická poušť", "Atacama", "Gobi"]
+  }
+]
+
